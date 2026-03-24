@@ -3,7 +3,8 @@
     "description": "PHP learning environment",
     "type": "project",
     "require": {
-        "php": "^8.4"
+        "php": "^8.4",
+      "ext-readline": "*"
     },
     "autoload": {
         "psr-4": {
